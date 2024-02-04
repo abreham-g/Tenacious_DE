@@ -13,9 +13,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#dbt"> dbt</a></li>
-        <li><a href="#Tableau"> Tableau</a></li>
-        <li><a href="#postgres"> postgres</a></li>
       </ul>
     </li>
     <li>
